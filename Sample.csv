@@ -1,0 +1,45 @@
+﻿Task ID,Task,Resource,Workstream,Start,End,Completion
+TASK1,MODULE 1 UAT,Resource 1 / Resource 2,Workstream 1,25/04/2023,19/06/2023,15%
+TASK1.1,M1 - Pre-req Checklist,Resource 1,Workstream 1,25/04/2023,25/04/2023,100%
+TASK1.2,TASK1.2,Resource 2,Workstream 1,25/04/2023,19/05/2023,100%
+TASK1.3,TASK1.3,Resource 2,Workstream 1,25/04/2023,19/05/2023,95%
+TASK1.4,TASK1.4,Resource 2,Workstream 1,25/04/2023,19/05/2023,95%
+TASK1.5,TASK1.5,Resource 1 / Resource 2,Workstream 1,25/04/2023,05/06/2023,
+TASK1.6,TASK1.6,Resource 2,Workstream 1,05/06/2023,07/06/2023,0%
+TASK1.7,TASK1.7,Resource 1,Workstream 1,08/06/2023,16/06/2023,0%
+TASK1.8,Sign-off - Module 1,Resource 1,Workstream 1,19/06/2023,19/06/2023,
+TASK2,PROD,Resource 1 / Resource 2,Workstream 1,19/06/2023,10/07/2023,0%
+TASK2.1,Pre-req met,Resource 1,Workstream 1,19/06/2023,19/06/2023,
+TASK2.2,TASK2.2,Resource 1,Workstream 1,26/06/2023,26/06/2023,
+TASK2.3,TASK2.3,Resource 1,Workstream 1,03/07/2023,03/07/2023,
+TASK2.4,TASK2.4,Resource 2,Workstream 1,21/06/2023,26/06/2023,0%
+TASK2.5,TASK2.5,Resource 2,Workstream 1,28/06/2023,03/07/2023,0%
+TASK2.6,TASK2.6,Resource 2,Workstream 1,05/07/2023,10/07/2023,0%
+TASK3,MODULE 2 PREP,Resource 1 / Resource 2,Workstream 2,10/05/2023,05/08/2023,0%
+TASK3.1,TASK3.1,Resource 2,Workstream 2,10/05/2023,12/07/2023,0%
+TASK3.2,TASK3.2,Resource 2,Workstream 2,12/07/2023,14/07/2023,0%
+TASK3.3,TASK3.3,Resource 1,Workstream 2,14/07/2023,04/08/2023,0%
+TASK4,MODULE 2 UAT,Resource 1,Workstream 2,05/08/2023,05/08/2023,0%
+TASK4.1,M2 - Pre-req Checklist in place,Resource 1,Workstream 2,05/08/2023,05/08/2023,0%
+TASK4.2,TASK4.2,Resource 1,Workstream 2,05/08/2023,05/08/2023,0%
+TASK4.3,Sign-off - Module 2,Resource 1,Workstream 2,05/08/2023,05/08/2023,0%
+TASK5,MODULE 2 PILOT,Resource 1,Workstream 2,07/08/2023,12/08/2023,0%
+TASK5.1,Region 1 Pilot,Resource 1 / Resource 2,Workstream 2,07/08/2023,12/08/2023,0%
+TASK5.2,Region 2 Pilot,Resource 1 / Resource 2,Workstream 2,07/08/2023,12/08/2023,0%
+TASK5.3,Region 3 Pilot,Resource 1 / Resource 2,Workstream 2,07/08/2023,12/08/2023,0%
+TASK6,MODULE 3,Resource 1 / Resource 2,Workstream 3,03/07/2023,31/07/2023,
+TASK6.1,Region 1,Resource 1 / Resource 2,Workstream 3,03/07/2023,03/07/2023,
+TASK6.2,Region 2,Resource 1 / Resource 2,Workstream 3,17/07/2023,17/07/2023,
+TASK6.3,Region 3,Resource 1 / Resource 2,Workstream 3,31/07/2023,31/07/2023,
+TASK7,Migration per region,Resource 1 / Resource 2,Workstream 4,10/05/2023,25/11/2023,
+TASK7.1,Country 1 Rollout,Resource 1 / Resource 2,Workstream 4,10/05/2023,19/06/2023,10%
+TASK7.2,Region 1 Rollouts can begin,Resource 1 / Resource 2,Workstream 4,17/08/2023,17/08/2023,
+TASK7.3,Module 2 for Region 1,Resource 1,Workstream 4,17/08/2023,16/09/2023,
+TASK7.4,Module 1 enabled for Region 1,Resource 2,Workstream 4,21/09/2023,20/11/2023,
+TASK7.5,Region 2 Rollouts can begin,Resource 1 / Resource 2,Workstream 4,17/08/2023,17/08/2023,
+TASK7.7,Module 2 for Region 2,Resource 1,Workstream 4,17/08/2023,16/09/2023,
+TASK7.7,Module 1 enabled for Region 2,Resource 2,Workstream 4,21/09/2023,20/11/2023,
+TASK7.8,Region 3 Rollouts can begin,Resource 1 / Resource 2,Workstream 4,17/08/2023,17/08/2023,
+TASK7.9,Module 2 for Region 3,Resource 1,Workstream 4,17/08/2023,16/09/2023,
+TASK7.10,Module 1 enabled for Region 3,Resource 2,Workstream 4,21/09/2023,20/11/2023,
+TASK7.11,Update Module 2 for Country 1,Resource 1 / Resource 2,Workstream 4,25/11/2023,25/11/2023,
