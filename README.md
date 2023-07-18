@@ -12,13 +12,13 @@ The Jupyter notebook and associated sample can be used for creating gantt charts
 Once run, the notebook will create 3 `svg` files with static gantt using matplotlib and 1 `html` file for interactive gantt using plotly. Samples are in this repo.
 
 ## Sample Rollout
-![Sample Rollout.svg](https://github.com/pubmania/python_based_gantt_chart_notebook/blob/main/Sample%20Rollout.svg)
+![Sample Rollout.svg](./Sample%20Rollout.svg)
 
 ## Sample Rollout Part 1
-![Sample Rollout Part 1](https://github.com/pubmania/python_based_gantt_chart_notebook/blob/main/Sample%20Rollout%20Part%201.svg)
+![Sample Rollout Part 1](./Sample%20Rollout%20Part%201.svg)
 
 ## Sample Rollout Part 2
-![Sample Rollout Part 2](https://github.com/pubmania/python_based_gantt_chart_notebook/blob/main/Sample%20Rollout%20Part%202.svg)
+![Sample Rollout Part 2](./Sample%20Rollout%20Part%202.svg)
 
 To change the `threshold` for Part 1 and Part 2 of the gantt charts above, you will need to change threshold in Cell 8, as shown below:
 
